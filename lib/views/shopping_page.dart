@@ -38,7 +38,7 @@ class ShoppingPage extends StatelessWidget {
                                     children: [
                                       Text(
                                         '${controller.products[index].productName}',
-                                        style: TextStyle(fontSize: 22),
+                                        style: TextStyle(fontSize: 24),
                                       ),
                                       Text(
                                           '${controller.products[index].productDescription}'),
