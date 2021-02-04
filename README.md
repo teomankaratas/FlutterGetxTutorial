@@ -1,6 +1,6 @@
-# getxtutorial
+# Getxtutorial
 
-Cart app for learning getx state management.
+Cart app for learning getx state management and mvc pattern.
 
 ## Getting Started
 
